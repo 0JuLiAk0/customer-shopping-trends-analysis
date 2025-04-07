@@ -30,7 +30,7 @@ The dataset offers a comprehensive look at customer purchasing trends, with the 
 
 ## Analysis
 
-In this project, we explore various aspects of consumer shopping behavior, including:
+In this project, we explore various aspects of customer shopping behavior, including:
 - Descriptive statistics of customer data.
 - Patterns in purchasing trends based on different factors such as gender, age, payment method, and more.
 - Visualizations showcasing insights such as purchase frequency, income distribution, and product popularity.
@@ -39,7 +39,7 @@ In this project, we explore various aspects of consumer shopping behavior, inclu
 
 1. Clone this repository.
 2. Install the necessary libraries (e.g., pandas, matplotlib, seaborn, plotly, altair).
-3. Run the Jupyter Notebook `Consumer_Shopping_Trends_Analysis.ipynb` to reproduce the analysis.
+3. Run the Jupyter Notebook `Customer_Shopping_Trends_Analysis.ipynb` to reproduce the analysis.
 
 ## Requirements
 
