@@ -1,12 +1,12 @@
-# Consumer Shopping Trends Analysis
+# Customer Shopping Trends Analysis
 
-This project analyzes consumer purchasing trends. The data comes from Kaggle and is available at:
+This project analyzes customer purchasing trends. The data comes from Kaggle and is available at:
 
 [Kaggle Dataset](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset?resource=download) 
 
 ## Dataset Overview
 
-The dataset offers a comprehensive look at consumer purchasing trends, with the goal of uncovering patterns and behaviors in retail purchases. It consists of 3,900 observations and includes the following columns:
+The dataset offers a comprehensive look at customer purchasing trends, with the goal of uncovering patterns and behaviors in retail purchases. It consists of 3,900 observations and includes the following columns:
 
 - **Customer ID**
 - **Age**
@@ -31,7 +31,7 @@ The dataset offers a comprehensive look at consumer purchasing trends, with the 
 ## Analysis
 
 In this project, we explore various aspects of consumer shopping behavior, including:
-- Descriptive statistics of consumer data.
+- Descriptive statistics of customer data.
 - Patterns in purchasing trends based on different factors such as gender, age, payment method, and more.
 - Visualizations showcasing insights such as purchase frequency, income distribution, and product popularity.
 
